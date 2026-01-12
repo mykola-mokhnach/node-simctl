@@ -70,7 +70,7 @@
     "@types/lodash": "^4.14.196",
     "@types/mocha": "^10.0.1",
     "@types/node": "^25.0.0",
-    "@types/teen_process": "^2.0.2",
+    "@types/teen_process": "^4.0.0",
     "appium-xcode": "^6.0.0",
     "chai": "^6.0.0",
     "chai-as-promised": "^8.0.0",
