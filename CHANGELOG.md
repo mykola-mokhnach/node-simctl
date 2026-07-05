@@ -1,3 +1,9 @@
+## [8.2.8](https://github.com/appium/node-simctl/compare/v8.2.7...v8.2.8) (2026-07-05)
+
+### Miscellaneous Chores
+
+* Drop mocha ([#305](https://github.com/appium/node-simctl/issues/305)) ([42eff0e](https://github.com/appium/node-simctl/commit/42eff0e5319f1972798aac842579b48c93e8fffc))
+
 ## [8.2.7](https://github.com/appium/node-simctl/compare/v8.2.6...v8.2.7) (2026-07-01)
 
 ### Miscellaneous Chores
